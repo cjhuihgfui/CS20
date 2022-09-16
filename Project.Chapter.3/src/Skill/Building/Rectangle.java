@@ -17,7 +17,8 @@ public class Rectangle {
 		
 		
 		
-		perimeter =  width * length;
+		perimeter =  width + length;
+		
 		
 		System.out.println("enter width and length of a rectangle:");
 		
